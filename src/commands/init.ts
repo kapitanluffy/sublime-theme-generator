@@ -28,6 +28,6 @@ export default class Init extends Command {
     const {args} = await this.parse(Init)
     const target = path.resolve(args['Target Directory'] || '.')
 
-    cpSync(path.resolve(path.join(__dirname, '..', 'theme')), target, {recursive: true})
+    cpSync(path.resolve(path.join(__dirname, '..', '..', 'theme')), target, {recursive: true})
   }
 }
