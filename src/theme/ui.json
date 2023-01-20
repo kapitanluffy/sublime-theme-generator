@@ -1,0 +1,64 @@
+{
+  "background": "background",
+  "foreground": "foreground",
+  "invisibles": null,
+
+  "caret": "accent",
+  "block_caret": null,
+  "block_caret_border": null,
+  "block_caret_underline": null,
+  "block_caret_corner_style": null,
+  "block_caret_corner_radius": null,
+  "line_highlight": "color(var(background) lightness(+ 5%))",
+
+  "misspelling": "red",
+  "fold_marker": null,
+  "minimap_border": null,
+  "accent": "accent",
+
+  "popup_css": null,
+  "phantom_css": null,
+  "sheet_css": null,
+
+  "gutter": null,
+  "gutter_foreground": null,
+  "gutter_foreground_highlight": null,
+
+  "line_diff_width": null,
+  "line_diff_added": null,
+  "line_diff_modified": null,
+  "line_diff_deleted": null,
+
+  "selection": "color(gray alpha(0.3))",
+  "selection_border": "dimgray",
+  "selection_foreground": null,
+  "selection_border_width": "1",
+  "inactive_selection": "color(gray alpha(0.2))",
+  "inactive_selection_border": null,
+  "inactive_selection_foreground": null,
+  "selection_corner_style": null,
+  "selection_corner_radius": null,
+
+  "highlight": "accent",
+  "find_highlight": "lightyellow",
+  "find_highlight_foreground": "grey",
+  "scroll_highlight": null,
+  "scroll_selected_highlight": null,
+
+  "rulers": null,
+
+  "guide": null,
+  "active_guide": "accent",
+  "stack_guide": "color(var(accent) alpha(0.2))",
+
+  "brackets_options": "underline",
+  "brackets_foreground": "accent",
+  "bracket_contents_options": "underline",
+  "bracket_contents_foreground": null,
+
+  "tags_options": "stippled_underline",
+  "tags_foreground": null,
+
+  "shadow": "black",
+  "shadow_width": null
+}

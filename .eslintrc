@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "oclif",
+    "oclif-typescript"
+  ],
+  "rules": {
+    "unicorn/no-array-reduce": "off",
+    "guard-for-in": "off"
+  }
+}

@@ -1,0 +1,10 @@
+comment.line.double-slash.js
+invalid.illegal.expected-mapping-key
+invalid.illegal.expected-mapping-separator
+invalid.illegal.expected-mapping-value
+invalid.illegal.expected-sequence-separator
+invalid.illegal.unclosed-string
+invalid.illegal.unrecognized-string-escape
+punctuation.separator.decimal
+punctuation.separator.key-value
+punctuation.separator.sequence
